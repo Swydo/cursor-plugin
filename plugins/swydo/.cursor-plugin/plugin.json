@@ -1,0 +1,15 @@
+{
+  "name": "swydo",
+  "displayName": "Swydo",
+  "version": "1.0.0",
+  "description": "Connect Cursor to Swydo and ask questions about your clients, reports, monitoring boards, goals and marketing data from Google Ads, GA4, Meta Ads and more.",
+  "author": {
+    "name": "Swydo",
+    "email": "support@swydo.com"
+  },
+  "homepage": "https://www.swydo.com",
+  "repository": "https://github.com/Swydo/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["swydo", "marketing", "reporting", "analytics", "google-ads", "ga4", "meta-ads", "mcp"],
+  "logo": "assets/logo.png"
+}
